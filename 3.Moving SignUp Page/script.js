@@ -10,9 +10,8 @@ let btn = document.getElementById('btn')
 let str = '';
 let allow = false;
 
-let chechStr = (str) => {
-  return (str.length > 7)?true:false;
-}
+let chechStr = (str) => (str.length > 7)?true:false;
+
 passwd.addEventListener('keydown', (e) => {
   if(e.key == 'Tab' || e.key == 'Shift' || e.key == 'Control' || e.key == 'Meta' || e.key == 'Alt' || e.key == 'Backspace' || e.key == 'ArrowLeft' || e.key == 'ArrowRight' || e.key == 'ArrowUp' || e.key == 'ArrowDown')
     return;
@@ -23,7 +22,7 @@ passwd.addEventListener('keydown', (e) => {
 })
 
 btn.addEventListener("mouseover", function() {
-  if(allow == false){
+if(allow == false){
     let style = window.getComputedStyle(flex);
     flex.style.justifyContent = (style.getPropertyValue("justify-content") == "start")?'center':
     (style.getPropertyValue("justify-content") == "center")?'end':'start';
