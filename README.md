@@ -20,6 +20,15 @@ Implementing APIs and working with data
 
 ## Project List :
 
+S.No    |    Project   |    Demo
+------- | ------------ | -------------
+   1    | Expanding Card | Content Cell
+   2    | Progress Steps | Content Cell
+   3    | Moving SignUp Button | sample
+   4    | Search Bar     |   sample
+   5    | Blur Loading   |   sample
+   6    | Scroll Animation | sample
+   
 1.Expanding Card: A card with a photo that expands when clicked.
 2.Progress Steps: A progress indicator for multi-step processes.
 3.Moving SignUp Button: A signup button that moves based on user input.
