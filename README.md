@@ -32,10 +32,10 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/dhanushtheijas08/50days-web-project/tree/main/1.Expanding%20Card)                             | [Demo video](https://twitter.com/i/status/1606741315324153863)               |
 | 02  | [Progress Steps](https://github.com/dhanushtheijas08/50days-web-project/tree/main/2.Progress%20Steps)                               | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7012816229820235776-qp0p?utm_source=share&utm_medium=member_desktop)                |
-| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
-| 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
-| 06  | [Scroll Animation](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
+| 03  | [Moving SignUp Button](https://github.com/dhanushtheijas08/50days-web-project/tree/main/3.Moving%20SignUp%20Page)                       | [Demo video](https://twitter.com/i/status/1607763140921683969) |
+| 04  | [Search Bar](https://github.com/dhanushtheijas08/50days-web-project/tree/main/4.Search%20Bar)                          | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7015373137781411840-WEez?utm_source=share&utm_medium=member_desktop)          |
+| 05  | [Blurry Loading](https://github.com/dhanushtheijas08/50days-web-project/tree/main/5.Blur%20Loading)                               | [Demo video](https://twitter.com/i/status/1610328119067672576)                |
+| 06  | [Scroll Animation](https://github.com/dhanushtheijas08/50days-web-project/tree/main/6.Scroll%20Animation)                           | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7016093059952123904-6hWs?utm_source=share&utm_medium=member_desktop)              |
 
 --- 
 ## About the Challenge
