@@ -26,7 +26,7 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 6. Scroll Animation: Elements with animation triggered by scrolling.
 
 
-## Demo videos
+## Demo videos : 
 
 |  S.No  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -38,6 +38,7 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 | 06  | [Scroll Animation](https://github.com/dhanushtheijas08/50days-web-project/tree/main/6.Scroll%20Animation)                           | [Demo video](https://twitter.com/i/status/1610328119067672576)             |
 
 --- 
+
 ## About the Challenge
 
 I created this project as a personal challenge to build one mini web project per day for 50 days. Each project builds upon my skills and knowledge in web development, and I hope they can serve as a helpful resource for others looking to learn or practice as well. Thank you for visiting and I hope you find something interesting or useful in these projects!
