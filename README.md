@@ -26,12 +26,12 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 6. Scroll Animation: Elements with animation triggered by scrolling.
 
 
-## Project Demo video
+## Demo videos
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  S.No  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
-| 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
+| 01  | [Expanding Cards](https://github.com/dhanushtheijas08/50days-web-project/tree/main/1.Expanding%20Card)                             | [Demo video](https://twitter.com/i/status/1606741315324153863)               |
+| 02  | [Progress Steps](https://github.com/dhanushtheijas08/50days-web-project/tree/main/2.Progress%20Steps)                               | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7012816229820235776-qp0p?utm_source=share&utm_medium=member_desktop)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
 | 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
