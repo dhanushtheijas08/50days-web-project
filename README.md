@@ -3,19 +3,17 @@
 Welcome to my collection of mini web projects! These projects are a series of small web applications and demos that I have built using HTML, CSS, and JavaScript. Each project aims to showcase a specific feature or technique, and can serve as a useful reference or starting point for anyone looking to learn or improve their skills in web development.
 
 
-
 ## Project Topics
 
 ### The projects in this collection cover a wide range of topics, including:
 
-Basic HTML and CSS layouts and styling
-Responsive design for different screen sizes
-Working with forms and user input
-JavaScript programming fundamentals
-Manipulating the DOM (Document Object Model)
-Creating interactive elements and animations
-Implementing APIs and working with data
-
+- Basic HTML and CSS layouts and styling
+- Responsive design for different screen sizes
+- Working with forms and user input
+- JavaScript programming fundamentals
+- Manipulating the DOM (Document Object Model)
+- Creating interactive elements and animations
+- Implementing APIs and working with data
 
 
 ## Project List :
