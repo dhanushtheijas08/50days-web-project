@@ -1,5 +1,5 @@
 # HTML, CSS, and JavaScript Mini Web Projects
-
+---
 Welcome to my collection of mini web projects! These projects are a series of small web applications and demos that I have built using HTML, CSS, and JavaScript. Each project aims to showcase a specific feature or technique, and can serve as a useful reference or starting point for anyone looking to learn or improve their skills in web development.
 
 
@@ -34,8 +34,8 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 | 02  | [Progress Steps](https://github.com/dhanushtheijas08/50days-web-project/tree/main/2.Progress%20Steps)                               | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7012816229820235776-qp0p?utm_source=share&utm_medium=member_desktop)                |
 | 03  | [Moving SignUp Button](https://github.com/dhanushtheijas08/50days-web-project/tree/main/3.Moving%20SignUp%20Page)                       | [Demo video](https://twitter.com/i/status/1607763140921683969) |
 | 04  | [Search Bar](https://github.com/dhanushtheijas08/50days-web-project/tree/main/4.Search%20Bar)                          | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7015373137781411840-WEez?utm_source=share&utm_medium=member_desktop)          |
-| 05  | [Blurry Loading](https://github.com/dhanushtheijas08/50days-web-project/tree/main/5.Blur%20Loading)                               | [Demo video](https://twitter.com/i/status/1610328119067672576)                |
-| 06  | [Scroll Animation](https://github.com/dhanushtheijas08/50days-web-project/tree/main/6.Scroll%20Animation)                           | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7016093059952123904-6hWs?utm_source=share&utm_medium=member_desktop)              |
+| 05  | [Blur Loading](https://github.com/dhanushtheijas08/50days-web-project/tree/main/5.Blur%20Loading)                               | [Demo video]                |
+| 06  | [Scroll Animation](https://github.com/dhanushtheijas08/50days-web-project/tree/main/6.Scroll%20Animation)                           | [Demo video](https://twitter.com/i/status/1610328119067672576)             |
 
 --- 
 ## About the Challenge
