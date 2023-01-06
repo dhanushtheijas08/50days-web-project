@@ -9,17 +9,22 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #050D21;
 }
 .container{
   height: 300px;
   width: 350px;
-  background-color: aquamarine;
+  background-color:  #C9D5EE;
+  border-radius: 20px;
 }
 .timer{
   height: 60%;
+  background-color:  #1A67F8;
   width: 100%;
-  background-color: rebeccapurple;
   font-weight: bolder;
+  border-radius: 20px;
+  /* color: rgb(242, 236, 236); */
+  color: #050D21;
 }
 .btns{
   height: 40%;
@@ -39,8 +44,9 @@ body{
   margin: 0 1.25rem;
   padding: 0.625rem;
   border-radius: 0.5rem;
-  background-color: royalblue;
-  color: #fff;
+  /* background-color: royalblue; */
+  background-color:   #1A67F8;
+  color: #050D21;
   cursor: pointer;
 }
 .btns .btn:active{
