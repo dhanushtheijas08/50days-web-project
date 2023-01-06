@@ -24,6 +24,7 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 4. Search Bar: An expandable search field activated by a search icon.
 5. Blur Loading: A loading screen with a blur effect.
 6. Scroll Animation: Elements with animation triggered by scrolling.
+7. Split Landing Page: Split Landing Page when we hover on it.
 
 
 ## Demo videos : 
@@ -36,6 +37,7 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 | 04  | [Search Bar](https://github.com/dhanushtheijas08/50days-web-project/tree/main/4.Search%20Bar)                          | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7015373137781411840-WEez?utm_source=share&utm_medium=member_desktop)          |
 | 05  | [Blur Loading](https://github.com/dhanushtheijas08/50days-web-project/tree/main/5.Blur%20Loading)                               | Demo video                |
 | 06  | [Scroll Animation](https://github.com/dhanushtheijas08/50days-web-project/tree/main/6.Scroll%20Animation)                           | [Demo video](https://twitter.com/i/status/1610328119067672576)             |
+| 07  | [Split Landing Page](https://github.com/dhanushtheijas08/50days-web-project/tree/main/7.Split%20Landing%20Page)                           | [Demo video](https://www.linkedin.com/posts/dhanush-theijas-ba5478226_100daysofcode-webproject-project-activity-7016799298487025664-DO-p?utm_source=share&utm_medium=member_desktop)             |
 
 --- 
 
