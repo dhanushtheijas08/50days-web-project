@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: royalblue;
+  display: grid;
+  grid-template-rows: 10% 90%;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  /* color: #fff; */
+  color: black;
+}
+.nav-bar {    
+  font-size: 25px;
+}
+.main-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5625rem;
+  align-items: center;
+}
+.main-tags {
+  display: flex;
+  gap: 1.25rem;
+}
