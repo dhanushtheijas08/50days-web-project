@@ -10,7 +10,6 @@ let randomColourPicker = function() {
     let index = Math.floor(Math.random() * 15);
     color = color + colors[`${index}`];
   }
-    console.log("🚀 | file: script.js:13 | randomColourPicker | color", typeof color);
     container.style.backgroundColor = color;
     hex.textContent = color;
 }
