@@ -20,8 +20,3 @@ window.addEventListener("keydown",(e) => {
   randomColourPicker();
 })
 
-let sample = 11;
-console.log(typeof sample);
-sample = sample.toString(16);
-console.log("🚀 | file: script.js:26 | sample", sample)
-console.log(typeof sample);
