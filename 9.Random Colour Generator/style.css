@@ -12,8 +12,8 @@
   justify-content: center;
   align-items: center;
   font-family: cursive;
-  /* color: #fff; */
-  color: black;
+  color: #fff;
+  /* color: black; */
 }
 .nav-bar {    
   font-size: 25px;
