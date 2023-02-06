@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: rgb(40, 39, 39);
+  font-family: cursive;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+.container {
+  height: 250px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+  align-items: center;
+}
+.target {
+  font-size: 5ch;
+}
+@media (max-width: 580px) {
+  body {
+    flex-direction: column;
+    height: 150vh;
+  }
+}
