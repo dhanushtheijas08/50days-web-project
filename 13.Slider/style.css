@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color : #0a2c4c;
+  --text-color : #fefeff;
+  --btn-color : #0572ec;
+  --font : 'Outfit', sans-serif;
+  --box-bg-color : #0a253c;
+  --box-border : 2px solid #082035;
+  --range-thumb-color : hsl(166, 92%, 36%);
+}
+
+body {
+  height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-size: 5ch;
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 900px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  background-color: var(--box-bg-color);
+  border: var(--box-border);
+}
+
+input[type="range"] {
+  appearance: none;
+  position: relative;
+  display: block;
+  background-color: var(--text-color);
+  border-radius: 10px;
+  width: 60%;
+  height: 15px;
+  outline: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  appearance: none;
+  height: 15px;
+}
+input[type="range"]::-moz-range-track {
+  appearance: none;
+  height: 15px;
+}
+input[type="range"]::-ms-track {
+  appearance: none;
+  height: 15px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  background-color: var(--range-thumb-color);
+  border-radius: 50%;
+  margin-top: -8px;
+  cursor: pointer;
+  border: none;
+}
+input[type="range"]:active::-webkit-slider-thumb {
+  --box-border :  5px solid hsl(166, 92%, 36%);
+  background-color: var(--text-color);
+  border: var(--box-border);
+}
+input[type="range"]::-moz-range-thumb {
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  background-color: var(--range-thumb-color);
+  border-radius: 50%;
+  margin-top: -8px;
+  cursor: pointer;
+  border: none;
+}
+input[type="range"]:active::-moz-range-thumb {
+  --box-border :  5px solid hsl(166, 92%, 36%);
+  background-color: var(--text-color);
+  border: var(--box-border);
+}
+input[type="range"]::-ms-thumb {
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  background-color: var(--range-thumb-color);
+  border-radius: 50%;
+  margin-top: -8px;
+  cursor: pointer;
+  border: none;
+}
+input[type="range"]:active::-ms-thumb {
+  --box-border :  5px solid hsl(166, 92%, 36%);
+  background-color: var(--text-color);
+  border: var(--box-border);
+}
