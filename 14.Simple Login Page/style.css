@@ -1,0 +1,152 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --white: #fff;
+  --red: #762d47;
+  --black: #000;
+}
+body {
+  height: 100vh;
+  background-image: url("./background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: cursive;
+}
+
+header nav {
+  width: 80%;
+  margin: auto;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--white);
+}
+header nav .logo {
+  font-size: 2ch;
+  cursor: pointer;
+}
+header nav ul {
+  list-style-type: none;
+  display: flex;
+  width: 450px;
+  justify-content: space-between;
+}
+header nav ul li a {
+  color: var(--white);
+  text-decoration: none;
+  font-size: 2ch;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 5px;
+}
+header nav ul li a::after {
+  content: "";
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 3px;
+  width: 0px;
+  position: absolute;
+  transition: width 0.4s;
+  left: 0;
+  bottom: 0;
+}
+header nav ul li a:hover::after {
+  width: 100%;
+}
+.btn {
+  border: var(--white) 3px solid;
+  padding: 0.2em 1.2em;
+  border-radius: 0.3em;
+  font-family: cursive;
+  font-size: 2ch;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn:hover {
+  background-color: var(--white);
+  color: black;
+}
+.login-btn {
+  position: relative;
+  top: -5px;
+}
+main {
+  height: 88vh;
+  display: flex;
+  justify-content: center;
+}
+.glassmorphism {
+  background: rgba(118, 45, 71, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4.5px);
+  -webkit-backdrop-filter: blur(4.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+main .login-form {
+  margin-top: 5%;
+  height: 335px;
+  width: 400px;
+  color: var(--white);
+  display: flex;
+  flex-direction: column;
+}
+main .login-form .login-text {
+  margin-top: 20px;
+  font-size: 3ch;
+  text-align: center;
+}
+main .login-form .input-field {
+  font-size: 2ch;
+  font-family: cursive;
+  background-color: transparent;
+  color: var(--white);
+  border: 2px solid var(--white);
+  margin: 10px 15px 10px 15px;
+  border-radius: 5px;
+  padding: 8px 12px 8px 12px;
+}
+main .login-form .input-field::-webkit-input-placeholder {
+  color: var(--white);
+}
+main .login-form .input-field:focus {
+  outline: none;
+}
+main .login-form .extra-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 15px 15px 15px;
+  font-weight: bold;
+}
+main .login-form .extra-section .remember-me,
+main .login-form .extra-section .remember-me input,
+main .login-form .extra-section .remember-me label,
+.forgot-pass {
+  cursor: pointer;
+}
+main .login-form button {
+  width: 40%;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+#remember-me-checkbox {
+  width: 18px;
+  height: 18px;
+  accent-color: steelblue;
+  border: none;
+}
+#remember-me-checkbox:active {
+  outline: none;
+}
+.remember-me {
+  display: flex;
+  gap: 10px;  
+  align-items: center;
+}
