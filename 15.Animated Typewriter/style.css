@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --step: 8;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  font-size: 10ch;
+  font-family: monospace;
+  max-width: max-content;
+}
+.text {
+  position: relative;
+  max-width: max-content;
+}
+.text::after,
+.text::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.text::before {
+  background-color: white;
+  animation: typing 4s steps(var(--step)) infinite alternate 500ms;
+}
+.text::after {
+  width: 5px;
+  height: 100%;
+  background-color: black;
+  animation: typing 4s steps(var(--step)) infinite alternate 500ms,
+    blink 500ms ease infinite;
+}
+@keyframes typing {
+  to {
+    left: 100%;
+  }
+}
+
+@keyframes blink {
+  to {
+    opacity: 0;
+  }
+}
