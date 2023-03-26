@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+}
+
+.top-header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+}
+.menu-bar {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.menu-bar .logo {
+  font-family: cursive;
+  color: aliceblue;
+  font-size: 5ch;
+}
+
+.hamburger-menu {
+  width: 60px;
+  height: 60px;
+  border: 2px solid aliceblue;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.hamburger-menu .inner-menu {
+  height: 3px;
+  width: 40px;
+  background-color: aliceblue;
+  transition: transform 0.5s ease-in-out;
+  border-radius: 2px;
+}
+
+.hamburger-menu .inner-menu::after,
+.hamburger-menu .inner-menu::before {
+  position: absolute;
+  content: " ";
+  height: 3px;
+  width: 40px;
+  background-color: aliceblue;
+  transition: all 0.5s ease-in-out;
+  border-radius: 2px;
+}
+.hamburger-menu .inner-menu::before {
+  transform: translateY(-10px);
+}
+.hamburger-menu .inner-menu::after {
+  transform: translateY(10px);
+}
+
+.hamburger-menu__clicked .inner-menu {
+  transform: translateX(-40px);
+  background-color: transparent;
+}
+
+.hamburger-menu__clicked .inner-menu::before {
+  transform: translateX(40px) rotate(45deg);
+}
+.hamburger-menu__clicked .inner-menu::after {
+  transform: translateX(40px) rotate(-45deg);
+}
+
+nav ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 2.5ch;
+}
+nav ul li {
+  list-style-type: none;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  transform: translateY(50px);
+  width: 100%;
+  text-align: center;
+}
+.nav-item-1,
+.nav-item-2,
+.nav-item-3,
+.nav-item-4,
+.nav-item-5 {
+  color: transparent;
+  transition: all .5s;
+}
+.nav-item-1-active {
+  transform: translateY(30px);
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+  padding: 10px;
+}
+.nav-item-2-active {
+  transform: translateY(60px);
+  background-color: black;
+  color: white;
+  margin-top: 30px;
+  padding: 10px;
+}
+.nav-item-3-active {
+  transform: translateY(90px);
+  background-color: black;
+  color: white;
+  margin-top: 50px;
+  padding: 10px;
+}
+.nav-item-4-active {
+  transform: translateY(120px);
+  background-color: black;
+  color: white;
+  margin-top: 70px;
+  padding: 10px;
+}
+.nav-item-5-active {
+  transform: translateY(150px);
+  background-color: black;
+  color: white;
+  margin-top: 90px;
+  padding: 10px;
+}
