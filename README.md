@@ -41,12 +41,6 @@ Welcome to my collection of mini web projects! These projects are a series of sm
 
 --- 
 
-
-
-sample  | new 
-------- | ----
-newSample | Sample
-
 ## About the Challenge
 
 I  created this project as a personal challenge to build one mini web project per day for 50 days. Each project builds upon my skills and knowledge in web development, and I hope they can serve as a helpful resource for others looking to learn or practice as well. Thank you for visiting and I hope you find something interesting or useful in these projects !
