@@ -1,5 +1,5 @@
 # HTML, CSS, and JavaScript Mini Web Projects
----
+--- 
 Welcome to my collection of mini web projects! These projects are a series of small web applications and demos that I have built using HTML, CSS, and JavaScript. Each project aims to showcase a specific feature or technique, and can serve as a useful reference or starting point for anyone looking to learn or improve their skills in web development.
 
 
